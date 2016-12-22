@@ -23,6 +23,11 @@
 *.a
 *.lib
 
+# temp files
+*.cpp~
+*.cpp#
+*.cpp#~
+
 # Executables
 *.exe
 *.out
